@@ -1,6 +1,6 @@
 #.
 
-There two routes.
+There are two routes.
 
 To get list of users navigate to 
 ```localhost:3000/api/user``` using get method 
